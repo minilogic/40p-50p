@@ -1,7 +1,6 @@
 # 40p-50p
 
-Adapter for connecting 50-pin displays to 40-pin connectors.  
-In the picture below LicheePi Nano works with a 1024*600 display.
+Adapter for connecting 50-pin displays to 40-pin connectors. In the picture below LicheePi Nano works with a 1024*600 display.
 
 ![disp_1024x600_1](https://github.com/user-attachments/assets/5cee89d7-ea63-4cd2-95fa-68454f9480b5)
 
